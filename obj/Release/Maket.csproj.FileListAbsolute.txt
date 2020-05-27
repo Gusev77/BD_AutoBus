@@ -1,0 +1,12 @@
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\bin\Release\Maket.exe.config
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\bin\Release\Maket.exe
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\bin\Release\Maket.pdb
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\obj\Release\Maket.Error.resources
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\obj\Release\Maket.Form_M.resources
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\obj\Release\Maket.Form_P.resources
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\obj\Release\Maket.Form_Enter.resources
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\obj\Release\Maket.Properties.Resources.resources
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\obj\Release\Maket.csproj.GenerateResource.cache
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\obj\Release\Maket.exe
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\obj\Release\Maket.pdb
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\obj\Release\Maket.csprojAssemblyReference.cache

@@ -1,0 +1,36 @@
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\bin\Debug\Maket.exe.config
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\bin\Debug\Maket.exe
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\bin\Debug\Maket.pdb
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\obj\Debug\Maket.Properties.Resources.resources
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\obj\Debug\Maket.csproj.GenerateResource.cache
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\obj\Debug\Maket.exe
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\obj\Debug\Maket.pdb
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\obj\Debug\Maket.Error.resources
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\obj\Debug\Maket.Form_Enter.resources
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\obj\Debug\Maket.Form_M.resources
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\obj\Debug\Maket.Form_P.resources
+C:\Универ\СеместР_4\БД\Макет\Maket\Maket\obj\Debug\Maket.csprojAssemblyReference.cache
+C:\Users\serga\Desktop\Maket\Maket\bin\Debug\Maket.exe.config
+C:\Users\serga\Desktop\Maket\Maket\bin\Debug\Maket.exe
+C:\Users\serga\Desktop\Maket\Maket\bin\Debug\Maket.pdb
+C:\Users\serga\Desktop\Maket\Maket\obj\Debug\Maket.csprojAssemblyReference.cache
+C:\Users\serga\Desktop\Maket\Maket\obj\Debug\Maket.Error.resources
+C:\Users\serga\Desktop\Maket\Maket\obj\Debug\Maket.Form_M.resources
+C:\Users\serga\Desktop\Maket\Maket\obj\Debug\Maket.Form_P.resources
+C:\Users\serga\Desktop\Maket\Maket\obj\Debug\Maket.Form_Enter.resources
+C:\Users\serga\Desktop\Maket\Maket\obj\Debug\Maket.Properties.Resources.resources
+C:\Users\serga\Desktop\Maket\Maket\obj\Debug\Maket.csproj.GenerateResource.cache
+C:\Users\serga\Desktop\Maket\Maket\obj\Debug\Maket.exe
+C:\Users\serga\Desktop\Maket\Maket\obj\Debug\Maket.pdb
+C:\Users\serga\Desktop\Study\6 sem\MD\Maket\Maket\bin\Debug\Maket.exe.config
+C:\Users\serga\Desktop\Study\6 sem\MD\Maket\Maket\bin\Debug\Maket.exe
+C:\Users\serga\Desktop\Study\6 sem\MD\Maket\Maket\bin\Debug\Maket.pdb
+C:\Users\serga\Desktop\Study\6 sem\MD\Maket\Maket\obj\Debug\Maket.csprojAssemblyReference.cache
+C:\Users\serga\Desktop\Study\6 sem\MD\Maket\Maket\obj\Debug\Maket.Error.resources
+C:\Users\serga\Desktop\Study\6 sem\MD\Maket\Maket\obj\Debug\Maket.Form_M.resources
+C:\Users\serga\Desktop\Study\6 sem\MD\Maket\Maket\obj\Debug\Maket.Form_P.resources
+C:\Users\serga\Desktop\Study\6 sem\MD\Maket\Maket\obj\Debug\Maket.Form_Enter.resources
+C:\Users\serga\Desktop\Study\6 sem\MD\Maket\Maket\obj\Debug\Maket.Properties.Resources.resources
+C:\Users\serga\Desktop\Study\6 sem\MD\Maket\Maket\obj\Debug\Maket.csproj.GenerateResource.cache
+C:\Users\serga\Desktop\Study\6 sem\MD\Maket\Maket\obj\Debug\Maket.exe
+C:\Users\serga\Desktop\Study\6 sem\MD\Maket\Maket\obj\Debug\Maket.pdb
