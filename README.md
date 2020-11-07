@@ -7,9 +7,9 @@
 
 --------------------------------------------------------------------------------------------------------------
 
-# BMSTU databases: computer:
-Teacher: G.I. Revunkov:neckbeard:
-Course topic: "Bus fleet":bus:
-DB Bus fleet on C # connected to SQL
-Also DB on access:bus:
-Database problems on Access will be fixed in the next 30 years.
+# BMSTU databases: computer:  
+Teacher: G.I. Revunkov:neckbeard:  
+Course topic: "Bus fleet":bus:  
+DB Bus fleet on C # connected to SQL  
+Also DB on access:bus:  
+Database problems on Access will be fixed in the next 30 years.  
